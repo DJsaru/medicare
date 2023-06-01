@@ -1,0 +1,158 @@
+.bg-clr {
+  position: relative;
+  height: 800px;
+  background: linear-gradient(
+      0.34deg,
+      #b6e4cc 0.44%,
+      rgba(182, 228, 204, 0) 99.84%
+    ),
+    linear-gradient(180deg, #35a3ba 0%, rgba(165, 245, 245, 0) 100%);
+}
+
+.container-back {
+  margin-left: 50%;
+  font-family: "Inter";
+}
+
+.cont-back {
+  padding-top: 15%;
+}
+
+.rgt-h-side {
+  margin-left: 30%;
+  font-size: 20px;
+  padding-top: 35%;
+}
+
+.rgt-h-side p {
+  margin-left: 13%;
+  padding-top: px;
+  font-size: 28px;
+}
+
+.rgt-h-side-med {
+  font-size: 24px;
+  margin-left: 17%;
+  padding-top: -35px;
+}
+
+.container-up {
+  height: 797px;
+  width: 45%;
+  border: 2px solid black;
+  position: absolute;
+  width: 621px;
+  left: 0px;
+  top: 0px;
+  background: #dbd9d9;
+  border: 1px solid #000000;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 6px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.log-brand-logo {
+  position: absolute;
+  width: 100px;
+  height: 67.23px;
+  left: 90px;
+  top: 71px;
+
+  filter: drop-shadow(5px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.log-brand-name {
+  position: absolute;
+  left: 210px;
+  top: 26px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 58px;
+  line-height: 70px;
+  text-align: center;
+  color: #7caba3;
+}
+
+.log-body-s {
+  margin-top: 36px;
+}
+
+.log-body-s h1 {
+  position: absolute;
+  left: 157px;
+  top: 157px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 38px;
+  line-height: 46px;
+  color: #535ebc;
+}
+
+.sign-div {
+  margin-top: 6%;
+  margin-left: 13%;
+}
+
+input[id="fullname"] {
+  box-sizing: border-box;
+  position: absolute;
+  width: 416px;
+  height: 54px;
+  left: 89px;
+  top: 292px;
+  background: #edebeb;
+  border: 2px solid #000000;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 7px;
+}
+
+input[id="emails"] {
+  box-sizing: border-box;
+  position: absolute;
+  width: 416px;
+  height: 54px;
+  left: 89px;
+  top: 392px;
+  background: #edebeb;
+  border: 2px solid #000000;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 7px;
+}
+
+input[id="passwords"] {
+  box-sizing: border-box;
+  position: absolute;
+  width: 416px;
+  height: 54px;
+  left: 89px;
+  top: 495px;
+  background: #edebeb;
+  border: 2px solid #000000;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 7px;
+}
+
+button[type="sign-in"] {
+  font-size: 19px;
+  font-family: "Inter";
+  position: absolute;
+  width: 300px;
+  height: 54px;
+  left: 140px;
+  top: 600px;
+  background: #925ecc;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 7px;
+}
+
+.signfot h1 {
+  position: absolute;
+  left: 173px;
+  top: 668px;
+  font-family: "Inter";
+  font-size: 400;
+  font-style: normal;
+  font-size: 18px;
+  text-align: center;
+  color: #7024c4;
+}

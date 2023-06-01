@@ -1,0 +1,251 @@
+.grid-container {
+  /* margin-left: 10px; */
+  /* margin-top: 20px; */
+  padding-top: 35px;
+  border-width: 1px 1px 0px 0px;
+  background: linear-gradient(
+      360deg,
+      rgba(60, 211, 47, 0.2) 0%,
+      rgba(113, 216, 104, 0) 100.84%
+    ),
+    linear-gradient(180deg, #53c1da 0%, rgba(64, 156, 185, 0.08) 113.89%);
+  border-style: solid;
+  border-color: #000000;
+}
+
+.hero-app {
+  text-align: center;
+  font-style: normal;
+  font-weight: 600;
+  padding-top: 70px;
+  padding-bottom: 120px;
+
+  text-shadow: 15px 12px 4px rgba(0, 0, 0, 0.4);
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: #ffffff;
+  letter-spacing: 4px;
+  font-size: 72px;
+  line-height: 87px;
+
+  color: #c3ebe9;
+  text-shadow: 15px 12px 4px rgba(0, 0, 0, 0.4);
+  font-family: "Inter";
+}
+
+.header-top {
+  position: absolute;
+  width: 818px;
+  height: 157px;
+  text-align: center;
+  padding-left: 390px;
+  margin-left: 90px;
+}
+
+.head-one {
+  position: absolute;
+  text-align: center;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 87px;
+  text-align: right;
+  color: #9f9d9d;
+  color: #39868d;
+}
+
+.head-line-1 {
+  position: absolute;
+  width: 156px;
+  height: 0px;
+  left: 423px;
+  top: 104px;
+
+  border: 1.5px solid #000000;
+  transform: rotate(0.23deg);
+}
+
+.head-line-2 {
+  position: absolute;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 87px;
+  left: 605px;
+  top: 37px;
+  color: #39868d;
+}
+
+.head-line-3 {
+  position: absolute;
+  width: 156px;
+  height: 0px;
+  left: 653px;
+  top: 104px;
+
+  border: 1.5px solid #000000;
+  transform: rotate(-0.23deg);
+}
+
+.containers {
+  font-family: "Inter";
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.first {
+  position: absolute;
+  width: 379px;
+  height: 73px;
+  left: 44px;
+  top: 658px;
+  padding-left: 90px;
+}
+
+.last {
+  position: absolute;
+  width: 379px;
+  height: 73px;
+  left: 254px;
+  top: 658px;
+  padding-left: 90px;
+}
+
+.age {
+  position: absolute;
+  width: 379px;
+  height: 73px;
+  left: 454px;
+  top: 658px;
+  padding-left: 90px;
+  width: 15%;
+}
+
+.gender {
+  position: absolute;
+  width: 70%;
+  left: 599px;
+  top: 661px;
+  padding-left: 75px;
+  width: 15%;
+  padding-bottom: 30px;
+}
+
+.email {
+  position: absolute;
+  left: 699px;
+  top: 658px;
+  width: 45%;
+  padding-left: 105px;
+}
+
+.contact {
+  position: absolute;
+  width: 379px;
+  height: 73px;
+  left: 44px;
+  top: 750px;
+  padding-left: 90px;
+}
+
+.address {
+  position: absolute;
+  width: 379px;
+  height: 73px;
+  left: 254px;
+  top: 750px;
+  padding-left: 90px;
+}
+
+.city {
+  position: absolute;
+  width: 379px;
+  height: 73px;
+  left: 454px;
+  top: 750px;
+  padding-left: 90px;
+}
+
+.timing {
+  position: absolute;
+  width: 379px;
+  height: 73px;
+  left: 664px;
+  top: 750px;
+  padding-left: 80px;
+}
+
+.date {
+  position: absolute;
+  width: 379px;
+  height: 73px;
+  left: 854px;
+  top: 750px;
+  padding-left: 80px;
+}
+
+.submit {
+  position: absolute;
+  width: 519px;
+  height: 73px;
+  left: 427px;
+  top: 870px;
+  text-align: center;
+}
+
+.cont-det {
+  padding-left: 55px;
+  margin-left: 35px;
+}
+
+input[type="text"]:focus {
+  border: 2px solid #000000;
+}
+
+input[type="text"] {
+  width: 40%;
+  padding: 10px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 15px;
+}
+
+input[type="number"] {
+  width: 40%;
+  padding: 10px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  text-align: left;
+}
+
+input[type="date"] {
+  width: 35%;
+  padding: 10px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  text-align: left;
+}
+
+input[type="time"] {
+  width: 35%;
+  padding: 10px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  text-align: left;
+}
+
+button[type="submit"] {
+  width: 45%;
+  padding: 10px;
+  margin: 7px 0;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: "Inter";
+}
+
+.form-foot {
+  margin-top: 500px;
+}

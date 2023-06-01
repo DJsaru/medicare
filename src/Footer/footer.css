@@ -1,0 +1,95 @@
+.line-break {
+  width: 100%;
+  height: 356px;
+  /* border: 1px solid #000000; */
+  background-color: rgb(216, 248, 248);
+}
+
+.img-in img {
+  position: absolute;
+  width: 83px;
+  height: 57.23px;
+  margin-left: 7%;
+  margin-top: 1.9%;
+  /* left: 8%;
+top: 2%; */
+}
+
+.foot-eml {
+  margin-left: 35%;
+}
+
+.gmail-in {
+  position: absolute;
+  margin-left: 1%;
+  margin-top: 0px;
+}
+
+.about-in {
+  position: absolute;
+  left: 8%;
+  font-family: "Inter";
+  font-style: normal;
+  font-size: 14px;
+  color: #000000;
+  margin-top: 33px;
+}
+
+.links-in {
+  position: absolute;
+  left: 35%;
+  font-family: "Inter";
+  font-style: normal;
+  font-size: 14px;
+  color: #000000;
+  margin-top: 33px;
+}
+
+.owner-in {
+  position: absolute;
+  left: 65%;
+  font-family: "Inter";
+  font-style: normal;
+  font-size: 14px;
+  color: #000000;
+  margin-top: 33px;
+}
+
+.link-one {
+  color: red;
+}
+
+.soc-logo-one {
+  position: absolute;
+  left: 8%;
+  right: 90.35%;
+  margin-top: 17%;
+  height: 50px;
+  width: 10px;
+}
+.soc-logo-two {
+  position: absolute;
+  left: 13.5%;
+  right: 90.35%;
+  margin-top: 17%;
+  width: 25px;
+  height: 225px;
+}
+.soc-logo-three {
+  position: absolute;
+  left: 18.5%;
+  right: 90.35%;
+  margin-top: 16.4%;
+}
+
+.soc-logo-three img {
+  height: 55px;
+}
+
+.soc-logo-two img {
+  height: 40px;
+}
+
+.soc-logo-one img {
+  height: 40px;
+}

@@ -1,0 +1,54 @@
+.img-pad{
+    padding-top: 450px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+
+button{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: 'Inter';
+}
+
+.card-body img{
+    /* padding: 30px; */
+    width: 300px;
+    color: #fff;
+    font-size: 36px;
+    line-height: 100px;
+    margin: 10px;
+    /* padding: 2%; */
+    text-align: center;
+    height: 200px;
+    border-radius: 25px;
+    border: 2px solid rgb(130, 130, 130);
+}
+
+.card-body span{
+    margin-left: 105px;
+    position: absolute;
+    top: 194px;
+    padding: 5px;
+}
+
+.btn-img{
+    padding-left: 19px;
+    padding-right: 19px;
+    border-radius: 9px;
+    border-color: rgba(123, 122, 124, 0.783);
+    /* background-color: transparent; */
+
+}
+
+.card-body:hover {
+    transform: scale(1.03);
+  }
+
+  .btn-tag{
+    padding: 45px;
+    margin-bottom: -5px;
+  }

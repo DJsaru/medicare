@@ -1,0 +1,257 @@
+.bg-clr {
+  position: relative;
+  height: 800px;
+  background: linear-gradient(
+      0.34deg,
+      #b6e4cc 0.44%,
+      rgba(182, 228, 204, 0) 99.84%
+    ),
+    linear-gradient(180deg, #35a3ba 0%, rgba(165, 245, 245, 0) 100%);
+}
+
+.container-back {
+  margin-left: 50%;
+  font-family: "Inter";
+}
+
+.cont-back {
+  padding-top: 15%;
+}
+
+.rgt-h-side {
+  margin-left: 30%;
+  font-size: 20px;
+  padding-top: 35%;
+}
+
+.rgt-h-side p {
+  margin-left: 13%;
+  padding-top: px;
+  font-size: 28px;
+}
+
+.rgt-h-side-med {
+  font-size: 24px;
+  margin-left: 17%;
+  padding-top: -35px;
+}
+
+.container-up {
+  height: 797px;
+  width: 45%;
+  border: 2px solid black;
+  position: absolute;
+  width: 621px;
+  left: 0px;
+  top: 0px;
+  background: #dbd9d9;
+  border: 1px solid #000000;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 6px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.log-brand-logo {
+  position: absolute;
+  width: 100px;
+  height: 67.23px;
+  left: 90px;
+  top: 71px;
+
+  filter: drop-shadow(5px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.log-brand-name {
+  position: absolute;
+  left: 210px;
+  top: 26px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 58px;
+  line-height: 70px;
+  text-align: center;
+  color: #7caba3;
+}
+
+.log-body {
+  margin-top: 36px;
+}
+
+.log-body h1 {
+  position: absolute;
+  left: 97px;
+  top: 157px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 38px;
+  line-height: 46px;
+  text-align: center;
+  color: #253a72;
+}
+
+.log-body h2 {
+  position: absolute;
+  width: 297px;
+  height: 31px;
+  left: 52px;
+  top: 236px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 31px;
+  text-align: center;
+  color: #504e4e;
+}
+
+.log-body h3 {
+  position: absolute;
+  width: 471px;
+  height: 31px;
+  left: 72px;
+  top: 232px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 31px;
+  text-align: right;
+  color: #535ebc;
+}
+
+.log-login-logo {
+  position: absolute;
+  left: 5.83%;
+  right: 62.78%;
+  bottom: 56.52%;
+}
+
+.log-login-logo {
+  top: 40%;
+}
+
+.log-logo-one {
+  position: absolute;
+  width: 120px;
+  height: 46px;
+  left: 44px;
+  top: 21px;
+  background: #c5221f;
+  border-radius: 8px;
+}
+
+.log-logo-two {
+  position: absolute;
+  width: 120px;
+  height: 46px;
+  left: 207px;
+  top: 21px;
+  background: #3b5998;
+  border-radius: 8px;
+}
+
+.log-logo-thr {
+  position: absolute;
+  width: 120px;
+  height: 46px;
+  left: 370px;
+  top: 21px;
+  background: #1da1f2;
+  border-radius: 8px;
+}
+
+.log-line-lft {
+  position: absolute;
+  width: 502px;
+  height: 31px;
+  left: 46px;
+  top: 441px;
+  position: absolute;
+  width: 211px;
+  height: 0px;
+  left: 46px;
+  /* top: 457px; */
+
+  border: 1px solid #000000;
+  transform: rotate(0deg);
+}
+
+.log-line-rgt {
+  position: absolute;
+  width: 211px;
+  height: 0px;
+  left: 337px;
+  top: 441px;
+  border: 1px solid #000000;
+  transform: rotate(0deg);
+}
+
+.log-break h1 {
+  position: absolute;
+  left: 284px;
+  top: 408px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 31px;
+  color: #504e4e;
+}
+
+.log-div {
+  margin-top: 6%;
+  margin-left: 13%;
+}
+
+input[id="email"] {
+  box-sizing: border-box;
+  position: absolute;
+  width: 416px;
+  height: 54px;
+  left: 89px;
+  top: 492px;
+  background: #edebeb;
+  border: 2px solid #000000;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 7px;
+}
+
+input[id="password"] {
+  box-sizing: border-box;
+  position: absolute;
+  width: 416px;
+  height: 54px;
+  left: 89px;
+  top: 580px;
+  background: #edebeb;
+  border: 2px solid #000000;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 7px;
+}
+
+.log-forg {
+  position: absolute;
+  left: 354px;
+  top: 645px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 8.3px;
+  line-height: 27px;
+  text-align: center;
+  color: #7024c4;
+}
+
+button[type="log-in"] {
+  font-size: 19px;
+  font-family: "Inter";
+  position: absolute;
+  width: 300px;
+  height: 54px;
+  left: 140px;
+  top: 700px;
+  background: #925ecc;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 7px;
+}

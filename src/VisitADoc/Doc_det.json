@@ -1,0 +1,29 @@
+{
+    "Doc":[
+        {
+            "id": 1,
+            "name": "Sarang Jaybhaye",
+            "Speciality": "Heart Specialist",
+            "Experience": "7",
+            "Address": "Sinhgad College, Vadgaon Budruk, Pune,Maharashtra 411041",
+            "img":"https://as1.ftcdn.net/v2/jpg/02/60/39/00/1000_F_260390071_RraE7AykggXPS50PEmYjpT3RgKUhgvux.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Aditya Jannawar",
+            "Speciality": "Heart Specialist",
+            "Experience": "7",
+            "Address": "Sinhgad College, Vadgaon Budruk, Pune,Maharashtra 411041",
+            "img":"https://as1.ftcdn.net/v2/jpg/02/60/39/00/1000_F_260390071_RraE7AykggXPS50PEmYjpT3RgKUhgvux.jpg"
+        },
+        {
+            "id": 3,
+            "name": "D.J.Saru",
+            "Speciality": "Heart Specialist",
+            "Experience": "7",
+            "Address": "Sinhgad College, Vadgaon Budruk, Pune,Maharashtra 411041",
+            "img":"https://as1.ftcdn.net/v2/jpg/02/60/39/00/1000_F_260390071_RraE7AykggXPS50PEmYjpT3RgKUhgvux.jpg"
+        }
+        
+    ]
+}

@@ -1,0 +1,47 @@
+.depa-cont {
+  width: 100%;
+  margin: auto;
+}
+
+.depa-sec {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 60px;
+  border-radius: 15px;
+}
+
+.depa-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding-bottom: 25px;
+}
+
+.depa-img {
+  width: 370px;
+  color: #fff;
+  font-size: 36px;
+  text-align: center;
+  height: 200px;
+  border-radius: 25px;
+  border: 2px solid rgb(130, 130, 130);
+  height: 250px;
+  background-color: rgb(150, 120, 120);
+  transition: transform 0.2s ease;
+  margin-bottom: 55px;
+  position: relative;
+}
+
+.depa-cards p {
+  left: 50px;
+  text-align: center;
+  top: -35px;
+  margin-top: -25px;
+  margin-bottom: 55px;
+}
+
+.depa-img:hover {
+  transform: scale(1.1);
+}
